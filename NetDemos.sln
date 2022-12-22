@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Threads", "Threads", "{9DB6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Background", "Threads\Background\Background.csproj", "{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "Threads\State\State.csproj", "{2CD55AF5-AE9F-4BD9-B600-E55577A2559E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD55AF5-AE9F-4BD9-B600-E55577A2559E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD55AF5-AE9F-4BD9-B600-E55577A2559E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD55AF5-AE9F-4BD9-B600-E55577A2559E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD55AF5-AE9F-4BD9-B600-E55577A2559E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3937A22F-955F-4ED9-9F79-AD0EA51850CE} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
+		{2CD55AF5-AE9F-4BD9-B600-E55577A2559E} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC194A49-B6D1-425A-BA06-ACAA60452445}
