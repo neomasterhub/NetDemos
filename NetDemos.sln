@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro", "Threads\Intro\Intro.csproj", "{3937A22F-955F-4ED9-9F79-AD0EA51850CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Threads", "Threads", "{9DB617D3-8903-43E8-94D7-E5E40E936686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3937A22F-955F-4ED9-9F79-AD0EA51850CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3937A22F-955F-4ED9-9F79-AD0EA51850CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3937A22F-955F-4ED9-9F79-AD0EA51850CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3937A22F-955F-4ED9-9F79-AD0EA51850CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3937A22F-955F-4ED9-9F79-AD0EA51850CE} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC194A49-B6D1-425A-BA06-ACAA60452445}
+	EndGlobalSection
+EndGlobal
