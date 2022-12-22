@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intro", "Threads\Intro\Intr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Threads", "Threads", "{9DB617D3-8903-43E8-94D7-E5E40E936686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Background", "Background\Background.csproj", "{5B1525E0-EA14-403E-80D2-ACA8B88CAD35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Background", "Threads\Background\Background.csproj", "{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,17 +19,17 @@ Global
 		{3937A22F-955F-4ED9-9F79-AD0EA51850CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3937A22F-955F-4ED9-9F79-AD0EA51850CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3937A22F-955F-4ED9-9F79-AD0EA51850CE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5B1525E0-EA14-403E-80D2-ACA8B88CAD35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B1525E0-EA14-403E-80D2-ACA8B88CAD35}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B1525E0-EA14-403E-80D2-ACA8B88CAD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B1525E0-EA14-403E-80D2-ACA8B88CAD35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3937A22F-955F-4ED9-9F79-AD0EA51850CE} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
-		{5B1525E0-EA14-403E-80D2-ACA8B88CAD35} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
+		{D9765507-F3C7-4B2F-B6ED-E7F8918D2E41} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC194A49-B6D1-425A-BA06-ACAA60452445}
