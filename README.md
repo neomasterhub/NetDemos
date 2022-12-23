@@ -9,4 +9,5 @@
 7. [Abort](https://github.com/neomasterhub/NetDemos/tree/master/Threads/Abort)
 8. [Abort(info)](https://github.com/neomasterhub/NetDemos/tree/master/Threads/AbortArg)
 9. [Priority](https://github.com/neomasterhub/NetDemos/tree/master/Threads/Priority)
-9. [Affinity: bat](https://github.com/neomasterhub/NetDemos/tree/master/Threads/AffinityParametrized)
+10. [Affinity: parametrized (BAT files)](https://github.com/neomasterhub/NetDemos/tree/master/Threads/AffinityParametrized)
+11. [Affinity: programmed](https://github.com/neomasterhub/NetDemos/tree/master/Threads/AffinityProgrammed)
