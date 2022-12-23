@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abort", "Threads\Abort\Abor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbortArg", "Threads\AbortArg\AbortArg.csproj", "{B90F4B23-A628-4EE2-8F88-353E9677DD4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Priority", "Threads\Priority\Priority.csproj", "{C05AF32A-AD16-42B9-8C3C-0357BB410CE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{B90F4B23-A628-4EE2-8F88-353E9677DD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B90F4B23-A628-4EE2-8F88-353E9677DD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B90F4B23-A628-4EE2-8F88-353E9677DD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05AF32A-AD16-42B9-8C3C-0357BB410CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05AF32A-AD16-42B9-8C3C-0357BB410CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05AF32A-AD16-42B9-8C3C-0357BB410CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05AF32A-AD16-42B9-8C3C-0357BB410CE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,6 +83,7 @@ Global
 		{B2065858-569C-4D35-97BF-BD5BFA3D9A37} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 		{7120B860-A968-433F-AA81-E88CF1A67333} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 		{B90F4B23-A628-4EE2-8F88-353E9677DD4F} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
+		{C05AF32A-AD16-42B9-8C3C-0357BB410CE6} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC194A49-B6D1-425A-BA06-ACAA60452445}
