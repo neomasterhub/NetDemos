@@ -20,6 +20,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsAlive", "Threads\IsAlive\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Join", "Join\Join.csproj", "{E7F76901-A120-4AA7-8500-B5938D78384A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinTimeout", "JoinTimeout\JoinTimeout.csproj", "{B9002227-AAFF-463F-9F9A-2292CF151700}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,10 @@ Global
 		{E7F76901-A120-4AA7-8500-B5938D78384A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7F76901-A120-4AA7-8500-B5938D78384A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7F76901-A120-4AA7-8500-B5938D78384A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9002227-AAFF-463F-9F9A-2292CF151700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9002227-AAFF-463F-9F9A-2292CF151700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9002227-AAFF-463F-9F9A-2292CF151700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9002227-AAFF-463F-9F9A-2292CF151700}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +62,7 @@ Global
 		{2CD55AF5-AE9F-4BD9-B600-E55577A2559E} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 		{2459ADD7-B9AC-42F9-A55C-807D90FDD768} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 		{E7F76901-A120-4AA7-8500-B5938D78384A} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
+		{B9002227-AAFF-463F-9F9A-2292CF151700} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC194A49-B6D1-425A-BA06-ACAA60452445}
