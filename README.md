@@ -11,3 +11,4 @@
 9. [Priority](https://github.com/neomasterhub/NetDemos/tree/master/Threads/Priority)
 10. [Affinity: parametrized (BAT files)](https://github.com/neomasterhub/NetDemos/tree/master/Threads/AffinityParametrized)
 11. [Affinity: programmed](https://github.com/neomasterhub/NetDemos/tree/master/Threads/AffinityProgrammed)
+12. [Suspend, Resume](https://github.com/neomasterhub/NetDemos/tree/master/Threads/SuspendResume)
