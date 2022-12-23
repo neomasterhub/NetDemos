@@ -7,11 +7,11 @@ namespace Priority
     {
         private static readonly Thread highest = new Thread(Highest);
         private static readonly Thread lowest = new Thread(Lowest);
-        private static readonly int limit = 100_000_000;
+        private static readonly int limit = int.MaxValue;
         private static int highestCount = 0;
         private static int lowestCount = 0;
 
-        static void Main()
+        private static void Main()
         {
             highest.Priority = ThreadPriority.Highest;
             lowest.Priority = ThreadPriority.Lowest;
@@ -26,17 +26,17 @@ namespace Priority
             Console.WriteLine("lowestCount:  " + lowestCount);
             Console.ReadKey();
 
-            //highestCount: 100000000
-            //lowestCount:  31299252            
+            //highestCount: 2147483647
+            //lowestCount:  1411503389         
         }
 
-        static void Highest()
+        private static void Highest()
         {
             while (++highestCount != limit) ;
             lowest.Abort();
         }
 
-        static void Lowest()
+        private static void Lowest()
         {
             while (++lowestCount != limit) ;
             highest.Abort();
