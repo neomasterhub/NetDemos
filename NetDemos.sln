@@ -22,6 +22,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Join", "Threads\Join\Join.c
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoinTimeout", "Threads\JoinTimeout\JoinTimeout.csproj", "{B2065858-569C-4D35-97BF-BD5BFA3D9A37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abort", "Threads\Abort\Abort.csproj", "{7120B860-A968-433F-AA81-E88CF1A67333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +54,10 @@ Global
 		{B2065858-569C-4D35-97BF-BD5BFA3D9A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2065858-569C-4D35-97BF-BD5BFA3D9A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2065858-569C-4D35-97BF-BD5BFA3D9A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7120B860-A968-433F-AA81-E88CF1A67333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7120B860-A968-433F-AA81-E88CF1A67333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7120B860-A968-433F-AA81-E88CF1A67333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7120B860-A968-433F-AA81-E88CF1A67333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{2459ADD7-B9AC-42F9-A55C-807D90FDD768} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 		{8F0D196B-ADFE-44E9-A592-8F508AEABC11} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 		{B2065858-569C-4D35-97BF-BD5BFA3D9A37} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
+		{7120B860-A968-433F-AA81-E88CF1A67333} = {9DB617D3-8903-43E8-94D7-E5E40E936686}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC194A49-B6D1-425A-BA06-ACAA60452445}
