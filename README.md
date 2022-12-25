@@ -15,4 +15,4 @@
 12. [Suspend, Resume](https://github.com/neomasterhub/NetDemos/tree/master/Threads/SuspendResume)
 
 ### Threads. Syncronization
-1. [Lock](https://github.com/neomasterhub/NetDemos/tree/master/Threads.Lock/Lock)
+1. [Lock](https://github.com/neomasterhub/NetDemos/tree/master/Threads.Sync/Lock)
