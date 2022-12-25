@@ -14,5 +14,5 @@
 11. [Affinity: programmed](https://github.com/neomasterhub/NetDemos/tree/master/Threads/AffinityProgrammed)
 12. [Suspend, Resume](https://github.com/neomasterhub/NetDemos/tree/master/Threads/SuspendResume)
 
-### Threads. Syncronization
+### Threads.Synchronization
 1. [Lock](https://github.com/neomasterhub/NetDemos/tree/master/Threads.Sync/Lock)
