@@ -16,3 +16,4 @@
 
 ### Threads.Synchronization
 1. [Lock](https://github.com/neomasterhub/NetDemos/tree/master/Threads.Sync/Lock)
+[Lock2](https://github.com/neomasterhub/NetDemos/tree/master/Threads.Sync/Lock2)
